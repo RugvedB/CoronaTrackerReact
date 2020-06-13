@@ -3,7 +3,7 @@
 
 ### Demo
 <p align="center">
-  <img src ="./assets/corona-tracker.gif" width = 500px>
+  <img src ="./assets/corona-tracker.gif" width = "80%">
 </p>
 
 
